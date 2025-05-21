@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-restful-api",
+  "version": "1.0.0",
+  "description": "A RESTful API for managing products with input validation.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "API",
+    "REST",
+    "Node.js",
+    "Express"
+  ],
+  "author": "",
+  "license": "ISC"
+}
